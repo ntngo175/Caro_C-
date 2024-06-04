@@ -1,0 +1,14 @@
+ID:100 Nhon Ngo 
+Nhon 0 0
+Ngo 0 1
+Nhon 1 1
+Ngo 0 2
+Nhon 2 2
+Ngo 0 3
+Nhon 3 3
+Player 1 is Nhon win
+ID:200 Nhon Ngo 
+Nhon 0 0
+Ngo 0 1
+Nhon 1 1
+Ngo 0 2

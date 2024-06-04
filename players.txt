@@ -1,0 +1,7 @@
+nhon 1 0 0
+ngo 0 0 1
+Nhon 3 0 2
+THanh 0 0 1
+5 1 0 0
+Hieu 0 0 1
+Ngo 2 0 2
